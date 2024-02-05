@@ -8,5 +8,5 @@ An OpenAI API Key
 ## Usage:
 Create a .env file in the root directory of the project.<br><br>
 Add 'API_Key = {Your_API_Key}' to your .env file.<br><br>
-Install the packages in `requirements.txt`
+Install the packages in `requirements.txt`<br><br>
 In the root directory, run `python main.py`
